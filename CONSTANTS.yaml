@@ -14,3 +14,8 @@ E_Oval_Gem_Height: 20
 E_Oval_Gem_Ratio: 1.61 # golden ratio
 
 E_Rotation: 25
+
+Monochrome_Circle_Diam: 215
+# Center circle so it touches 
+# 2 E crown points and bottom
+# right of G curve. Then scale
