@@ -58,51 +58,11 @@
      inkscape:label="Letter G"
      inkscape:groupmode="layer"
      id="layer1">
-    <circle
-       style="fill:#663399;fill-rule:evenodd;stroke-width:0.357143;fill-opacity:1"
+    <path
        id="path12"
-       cx="75"
-       cy="75"
-       r="75" />
-    <circle
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.214285"
-       id="circle14"
-       cx="75"
-       cy="75"
-       r="45" />
-    <circle
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.357143"
-       id="circle839"
-       sodipodi:type="arc"
-       sodipodi:cx="75"
-       sodipodi:cy="75"
-       sodipodi:rx="76"
-       sodipodi:ry="76"
-       sodipodi:start="5.7595865"
-       sodipodi:end="0"
-       sodipodi:arc-type="slice"
-       d="M 140.81793,36.999998 A 76,76 0 0 1 151,75 H 75 Z" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.182574"
-       id="rect841"
-       width="76"
-       height="5"
-       x="75"
-       y="75" />
-    <rect
-       style="fill:#663399;fill-opacity:1;stroke-width:0.314026"
-       id="rect843"
-       width="45"
-       height="25"
-       x="80"
-       y="80" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.140346"
-       id="rect849"
-       width="10.000002"
-       height="65"
-       x="140"
-       y="80" />
+       style="fill:#663399;fill-opacity:1;fill-rule:evenodd;stroke-width:1.34983"
+       d="M 282.75 0 A 283.46457 283.46457 0 0 0 0 283.46484 A 283.46457 283.46457 0 0 0 283.46484 566.92969 A 283.46457 283.46457 0 0 0 529.13477 424.88086 L 529.13477 302.36133 L 452.48828 302.36133 L 302.36133 302.36133 L 302.36133 396.84961 L 410.23242 396.84961 A 170.07874 170.07874 0 0 1 283.46484 453.54297 A 170.07874 170.07874 0 0 1 113.38672 283.46484 A 170.07874 170.07874 0 0 1 282.79102 113.38672 A 170.07874 170.07874 0 0 1 283.46484 113.38672 A 170.07874 170.07874 0 0 1 430.75586 198.42578 L 528.95117 141.73047 A 283.46457 283.46457 0 0 0 283.46484 0 A 283.46457 283.46457 0 0 0 282.75 0 z "
+       transform="scale(0.26458333)" />
   </g>
   <g
      inkscape:groupmode="layer"
