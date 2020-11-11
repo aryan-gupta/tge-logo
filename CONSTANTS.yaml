@@ -1,0 +1,16 @@
+G_Outer: 150
+G_Inner: 90
+G_Top_Cut_Angle: 30
+G_Bottom_Cut: 5
+G_Inner_Line_Weight: 25
+
+E_Stem_Length: 125
+E_Stem_Weight: 20
+E_Leaf_Length: 25
+E_Leaf_Weight: 22.5
+
+E_Circular_Gem: 15
+E_Oval_Gem_Height: 20
+E_Oval_Gem_Ratio: 1.61 # golden ratio
+
+E_Rotation: 25
